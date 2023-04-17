@@ -13,5 +13,11 @@ Iniciando o aprendizado de :pencil2: :books:
 <br>
 :computer:<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
+![wilsonjdev GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonjdev&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonjdev)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=wilsonjdev-github-username&color=green)
+
 
 
